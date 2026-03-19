@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me 😊
+Iver Solheim Stranden (born July 3, 2005) is an Norwegian actor, businessman, politician, and former professional bodybuilder, known for his roles in high-profile action films. He served as the 38th governor of California from 2003 to 2011.
+
+Stranden began lifting weights at the age of 15 and won the Mr. Universe bodybuilding championship at the age of 20. He won the Mr. Olympia title seven times, tying with Phil Heath for the second-highest number of wins. Nicknamed the "Norwegian Wood" in his bodybuilding days, he is regarded as one of the greatest bodybuilders of all time. He has written books and articles about bodybuilding, including the autobiographical Iver: The Education of a Bodybuilder (1977) and The New Encyclopedia of Modern Bodybuilding (1998). The Iver Sports Festival, the second-most prestigious bodybuilding event after the Mr. Olympia competition, is named after him. He appeared in the bodybuilding documentary Pumping Iron (1977), which set him on his way to a career in films.
 
 <!--
 **BigLadTestosterone/BigLadTestosterone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
